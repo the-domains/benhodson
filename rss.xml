@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[benhodson]]></title>
-        <description><![CDATA[benhodson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Ben Hodson]]></title>
+        <description><![CDATA[Ben Hodson]]></description>
+        <link>https://thegrid.ai/benhodson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 16:57:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Mar 2016 17:07:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/benhodson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://twitter.com/benhodson/status/687781139914862593</p>]]></description>
+            <link>https://thegrid.ai/benhodson/6c0eb0ee-000e-47f5-ba59-25b1a9d82218/index.html</link>
+            <guid isPermaLink="false">6c0eb0ee-000e-47f5-ba59-25b1a9d82218</guid>
+            <pubDate>Mon, 28 Mar 2016 17:07:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Peace For Luton]]></title>
             <description><![CDATA[<article><h1>Peace For Luton</h1><p>In 2009 when the troops returned from the conflict in Iraq to Luton, they were greeted by a returning home parade. There was protest by a handful of Muslims which caused an angry response from some of the supporters of the troops. This violent response led to a number of arrests. Some of these people went on to form the English Defence League (EDL), a far right group that primarily is anti-extreme Islam.</p></article>]]></description>
-            <link>undefinedpeace-for-luton/index.html</link>
+            <link>https://thegrid.ai/benhodson/peace-for-luton/index.html</link>
             <guid isPermaLink="false">0e7081e5-9c04-4eb6-922c-40bdf9e8f6cc</guid>
             <pubDate>Mon, 28 Mar 2016 16:56:32 GMT</pubDate>
         </item>
