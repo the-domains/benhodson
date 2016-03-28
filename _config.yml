@@ -2,12 +2,13 @@ name: benhodson
 favicon: null
 layout_spectrum: 0.7078907340764999
 typography_spectrum: 0.36040824139490724
+title: Ben Hodson
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: Tracking ID UA-75664456-1
   facebook: null
   twitter: null
 opengraph:
