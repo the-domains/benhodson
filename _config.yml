@@ -1,0 +1,28 @@
+name: benhodson
+favicon: null
+layout_spectrum: 0.7078907340764999
+typography_spectrum: 0.36040824139490724
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.1587804090231657
+  lightness: 0.680791565682739
+  saturation: 0.6176487721968442
+  rhythmicContrast: 0.33140039816498756
+purpose: []
