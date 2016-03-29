@@ -1,5 +1,8 @@
+name: benhodson
+favicon: null
+layout_spectrum: 0.2688172
+typography_spectrum: 0.39558
 title: Ben Hodson
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: Tracking ID UA-75664456-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 0.1875
-  lightness: 1
   brandColors:
     - '#000000'
     - '#b4b4b4'
     - '#fef7f3'
     - '#484340'
     - '#756858'
+  brandStrength: 0.1875
+  lightness: 1
+  saturation: 0
   rhythmicContrast: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: Tracking ID UA-75664456-1
-  facebook: null
-favicon: null
-name: benhodson
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.2849462
-layout_spectrum: 0.2688172
+purpose: []
