@@ -1,5 +1,8 @@
+name: benhodson
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.3604082413949072
 title: Ben Hodson
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: Tracking ID UA-75664456-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6176487721968442
-  brandStrength: 0.1587804090231657
-  rhythmicContrast: 0.3314003981649876
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+  brandStrength: 0.1587804090231657
   lightness: 0.680791565682739
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: Tracking ID UA-75664456-1
-  facebook: null
-name: benhodson
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.3604082413949072
-layout_spectrum: 1
+  saturation: 0.6176487721968442
+  rhythmicContrast: 0.3314003981649876
+purpose: []
